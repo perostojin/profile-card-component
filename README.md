@@ -1,58 +1,63 @@
-# 💼 Frontend Mentor – Profile Card Component
+# 💼 Frontend Mentor – Profile Card Component  
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9c7de9d3-4b89-4f45-9467-fcb42e99a9cd/deploy-status)](https://app.netlify.com/sites/victor-card-component/deploys)
+![HTML Badge](https://img.shields.io/badge/HTML5-orange)
+![CSS Badge](https://img.shields.io/badge/CSS3-blue)
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-brightgreen)
+
+---
+
+## 🧩 Overview  
 
 This is my solution to the [Profile Card Component Challenge](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ) from Frontend Mentor.  
-The goal was to recreate the given design as accurately as possible using only **HTML and CSS**.
+The goal was to recreate the given design as accurately as possible using only **HTML and CSS**.  
 
 ---
 
-## 🧩 Overview
+## 🎨 Preview  
 
-A clean and minimal profile card built with semantic HTML and modern CSS.  
-I focused on structure, layout, and small visual details to make the result match the original design.
-
-### 🎯 Features
-
-- Two background SVGs positioned with `background-position`
-- Custom Google Font (**Kumbh Sans**)
-- Centered flex layout
-- Fully responsive and visually close to the design mockup
+🔗 **[Live Demo on Netlify →](https://victor-card-component.netlify.app/)**  
+🔗 **[View Repository on GitHub →](https://github.com/perostojin/profile-card-component)**  
 
 ---
 
-## 💡 What I Learned
+## 🎯 Features  
 
-This project helped me strengthen my understanding of:
-
-- Working with multiple background images
-- Adjusting `margin`, `padding`, and `line-height` for pixel precision
-- Using **Flexbox** for centering and alignment
-- Importing and applying Google Fonts
+✅ Two decorative SVG backgrounds positioned with `background-position`  
+✅ Custom Google Font (**Kumbh Sans**)  
+✅ Centered layout using **Flexbox**  
+✅ Fully responsive and visually faithful to the original design  
 
 ---
 
-## ⚙️ Built With
+## 💡 What I Learned  
 
-- Semantic **HTML5**
-- **CSS3** (Flexbox & custom properties)
-- **Google Fonts**
-- Tested in Chrome Developer Tools
+This project helped me strengthen my understanding of:  
 
----
-
-## 🚀 Live Demo
-
-🔗 [View project on GitHub Pages](https://github.com/perostojin/profile-card-component)
-
-🔗 [View it on Netlify](https://profile-card-perostojin.netlify.app)
+- Managing **multiple background images**
+- Achieving pixel precision with `margin`, `padding`, and `line-height`
+- Using **Flexbox** for alignment and spacing  
+- Importing and applying **Google Fonts**  
+- Fine-tuning design balance and proportions  
 
 ---
 
-## 🙌 Author
+## ⚙️ Built With  
+
+- Semantic **HTML5**  
+- **CSS3** (Flexbox & custom properties)  
+- **Google Fonts**  
+- Tested in **Chrome DevTools**  
+
+---
+
+## 🙌 Author  
 
 👤 **Per Ostojin**  
 🌐 [GitHub](https://github.com/perostojin)  
-📍 Sweden
+🔗 [Frontend Mentor](https://www.frontendmentor.io/profile/perostojin)  
+📍 Sweden  
 
 ---
 
-⭐ _Frontend Mentor has been a great way to practice real-world challenges and refine my frontend skills._
+⭐ _Frontend Mentor is a great platform for practicing real-world challenges and refining frontend skills._
