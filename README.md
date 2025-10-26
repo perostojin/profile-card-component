@@ -43,6 +43,8 @@ This project helped me strengthen my understanding of:
 
 🔗 [View project on GitHub Pages](https://github.com/perostojin/profile-card-component)
 
+🔗 [View it on Netlify](https://profile-card-perostojin.netlify.app)
+
 ---
 
 ## 🙌 Author
