@@ -1,6 +1,6 @@
 # 💼 Frontend Mentor – Profile Card Component  
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9c7de9d3-4b89-4f45-9467-fcb42e99a9cd/deploy-status)](https://app.netlify.com/sites/victor-card-component/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8631bb0f-de66-4106-9876-ce6f30056157/deploy-status)](https://app.netlify.com/projects/victor-card-component/deploys)
 ![HTML Badge](https://img.shields.io/badge/HTML5-orange)
 ![CSS Badge](https://img.shields.io/badge/CSS3-blue)
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-brightgreen)
