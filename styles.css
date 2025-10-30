@@ -1,3 +1,30 @@
+html, body { 
+  height: 100%; 
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;      /* täcker hela höjden, även på mobiler */
+  display: flex;
+  flex-direction: column;  /* gör att footern hamnar längst ner */
+}
+
+main {
+  flex: 1;                 /* tar all plats mellan header och footer */
+  display: grid;
+  place-items: center;     /* centrerar kortet i mitten */
+  padding: 1rem;           /* lite luft runt kanterna */
+}
+
+footer {
+  margin-top: auto;        /* trycker ner footern */
+  text-align: center;
+  padding: 1rem 0;
+  font-size: .875rem;      /* ca 14px */
+  opacity: .85;
+}
+
+
 html {
   font-size: 16px; 
 }
