@@ -1,6 +1,11 @@
+html {
+  font-size: 16px; 
+}
+
+
 body {
   margin: 0;
-    min-height: 100vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -10,9 +15,9 @@ body {
   background-image: url(images/bg-pattern-top.svg),
     url(images/bg-pattern-bottom.svg);
   background-repeat: no-repeat, no-repeat;
-  
-  background-size: 620px 620px, 620px 620px;
-  background-position: -360px -260px, calc(100% + 390px) calc(100% + 170px);
+
+  background-size: 40rem 40rem, 40rem 40rem;
+  background-position: -440px -300px, calc(100% + 420px) calc(100% + 280px);
 }
 
 .card {
@@ -44,11 +49,10 @@ body {
 .card-info h2 {
   margin-top: 10px;
   font-size: 18px;
-  margin: 0;
 }
 
 .card-info {
-    padding: 10px 10px
+  padding: 10px 10px;
 }
 
 .card-info span {
@@ -82,9 +86,9 @@ body {
   margin-top: 3px;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 75rem) {
   body {
-    background-size: 900px 900px, 900px 900px;
-    background-position: -260px -220px, calc(100% + 220px) calc(100% + 180px);
+    background-size: 55rem 55rem, 55rem 55rem;
+    background-position: -200px -120px, calc(100% + 160px) calc(100% + 220px);
   }
 }
